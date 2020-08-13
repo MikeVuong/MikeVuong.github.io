@@ -1,0 +1,3 @@
+[submodule "BakerySite"]
+	path = BakerySite
+	url = https://github.com/MikeVuong/BakerySite.git
